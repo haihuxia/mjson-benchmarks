@@ -2,6 +2,8 @@
 
 Benchmarks for [mjson]().
 
+*These benchmarks were run on a MacBook Pro 15" Mid 2014 2.5 GHz Intel Core i7 using Go 1.14.*
+
 ### Usage
 
 ```
