@@ -1,0 +1,10 @@
+mapping:
+  - pairs:
+      text_matches.matches.text: m_text
+  - group:
+      text_matches: t_matches
+  - pairs:
+      object_url: o_url
+      object_type: o_type
+      property: o_property
+      fragment: o_fragment
