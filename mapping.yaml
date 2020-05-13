@@ -3,7 +3,7 @@ mapping:
       text_matches.matches.text: m_text
   - group:
       text_matches: t_matches
-  - pairs:
+    pairs:
       object_url: o_url
       object_type: o_type
       property: o_property

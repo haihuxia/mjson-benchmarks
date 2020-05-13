@@ -3,6 +3,6 @@ module mjson-benchmarks
 go 1.14
 
 require (
-	github.com/haihuxia/mjson v1.0.0
-	gopkg.in/yaml.v2 v2.2.8
+	github.com/haihuxia/mjson v1.0.1
+	gopkg.in/yaml.v2 v2.3.0
 )
